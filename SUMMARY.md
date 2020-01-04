@@ -1,10 +1,10 @@
 # Table of contents
 
-* [2019.12.21 TIL](README.md)
+* [-](README.md)
 
 ## DEV
 
 * [Python](dev/python/README.md)
-  * [1. 변수](dev/python/python01.md)
-* [20200104 git, 인스타그램 클론코딩](20200104-git.md)
+  * [2019.12.21 TIL](dev/python/2019.12.21-til.md)
+  * [2020.01.04 git, 인스타그램 클론코딩 강의](dev/python/20200104-git.md)
 
